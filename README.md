@@ -1,2 +1,2 @@
 # django_rest_api
-Just api application
+Just api application with docker
